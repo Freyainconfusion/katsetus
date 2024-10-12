@@ -1,0 +1,31 @@
+html {
+    background-color: rgb(145, 226, 219);
+}
+h1 {
+    color: brown;
+}
+.must-kast {
+    background-color: black;
+    width: fit-content;
+    padding: 5px;
+    color: aquamarine;
+    
+    margin: 10px;
+}
+#main-container {
+    display: flex;
+    height: 100vh;
+    justify-content:center;
+    align-items: center;
+    
+}
+
+#kollane {
+    background-color: yellow;
+    color: black;
+}
+
+#punane {
+    background-color: red;
+    color:black
+}
